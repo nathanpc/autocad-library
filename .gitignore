@@ -1,0 +1,9 @@
+# Private stuff.
+Drawings/
+
+# AutoCAD stuff.
+*.bak
+
+# Misc.
+.DS_Store
+Thumbs.db
