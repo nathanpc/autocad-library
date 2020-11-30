@@ -3,6 +3,8 @@ Drawings/
 
 # AutoCAD stuff.
 *.bak
+*.dwl
+*.dwl2
 
 # Misc.
 .DS_Store
