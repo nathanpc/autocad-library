@@ -5,6 +5,7 @@ Drawings/
 *.bak
 *.dwl
 *.dwl2
+plot.log
 
 # Misc.
 .DS_Store
